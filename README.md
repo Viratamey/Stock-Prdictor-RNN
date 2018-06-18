@@ -6,4 +6,5 @@ I will predict stock price for few days in advance. The particular network archi
 =======
 # Stock-Prdictor-RNNetworks
 predicts stock for few days(1-7) from stocks of previous days(5-21) using Long Short Term Memory type Recurrent Neural Networks
->>>>>>> f350b65ba48f5fda96d4e14087b13e8d56909bfe
+
+![index](https://user-images.githubusercontent.com/30778983/41556255-d13e25d4-7357-11e8-8c7f-e17871cdb641.png)
